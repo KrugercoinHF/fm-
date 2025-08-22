@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Web FM Transmitter Control",
+  "description": "A web interface to control a conceptual FM transmitter via Bluetooth. Manage connection, play MP3 files, and set the broadcast frequency.",
+  "requestFramePermissions": []
+}
